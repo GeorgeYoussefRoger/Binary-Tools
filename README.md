@@ -10,7 +10,6 @@ This project was developed as a collaborative team effort, with each member cont
 - Compute the two's complement of a binary number.
 - Perform addition and subtraction of two binary numbers.
 - Input validation to ensure only valid binary numbers (0, 1 or -) are processed.
-- User-friendly menu-driven interface.
 ### Number Base Converter
 - Convert numbers between decimal, binary, octal and hexadecimal bases.
 - Supports conversions such as binary to octal, hexadecimal to decimal, and more.
