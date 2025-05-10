@@ -1,5 +1,5 @@
 # Binary-Tools
-Welcome to BinaryBaseTools, a collection of two Python-based command-line applications designed for binary arithmetic and number base conversions. This repository includes:
+Welcome to Binary-Tools, a collection of two Python-based command-line applications designed for binary arithmetic and number base conversions. This repository includes:
 1. **Binary Calculator**: Performs operations on binary numbers including one's complement, two's complement, addition and subtraction.
 2. **Number Base Converter**: Converts numbers between decimal, binary, octal and hexadecimal bases.
 This project was developed as a collaborative team effort, with each member contributing specific functionalities to create robust and user-friendly tools for number system computations.
