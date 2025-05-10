@@ -22,10 +22,10 @@ This project was developed as a collaborative team effort, with each member cont
 2. Choose option A to input a binary number or B to exit.
 3. Enter a valid binary number (e.g., 1010 or -1101).
 4. Select an operation:
-    a: Compute one's complement.
-    b: Compute two's complement.
-    c: Add a second binary number.
-    d: Subtract a second binary number.
+a: Compute one's complement.
+b: Compute two's complement.
+c: Add a second binary number.
+d: Subtract a second binary number.
 5. View the result and return to the main menu.
 ### Number Base Converter
 1. Run NumberConversion.py.
