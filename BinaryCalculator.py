@@ -15,7 +15,7 @@ def menu1():
         if i not in {"0", "1", "-"}:
             checker = False
     if checker == False:
-        print("Enter a valid number")
+        print("Enter a valid binary number (0s and 1s)")
         menu1()
     else:
         num = str(num)
@@ -29,7 +29,7 @@ def num2():
         if i not in {"0", "1","-"}:
             checker = False
     if checker == False:
-        print("Enter a valid number")
+        print("Enter a valid binary number (0s and 1s)")
         menu2()
     else:
         return int(num2)
