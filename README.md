@@ -3,6 +3,8 @@
 1. **Binary Calculator**
 2. **Number Base Converter**
 
+This project was developed as a collaborative team effort with each member contributing specific functionalities to create robust and user-friendly tools for number system computations.
+
 ## Features
 ### Binary Calculator
 - Compute the one's complement of a binary number.
@@ -15,7 +17,6 @@
 - Input validation for accurate conversions.
 
 ## My Contributions
-As a key contributor to this project, I was responsible for:
 ### Number Base Converter:
 Developed the binary to octal and octal to binary conversion functionalities, ensuring accurate and efficient conversions through intermediate decimal processing.
 ### Binary Calculator:
