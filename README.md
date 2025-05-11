@@ -11,7 +11,7 @@
 - Input validation to ensure only valid binary numbers (0, 1 or -) are processed.
 ### Number Base Converter
 - Convert numbers between decimal, binary, octal and hexadecimal bases.
-- Supports complex conversions such as binary to octal, Octal to hexadecimal and more.
+- Supports complex conversions such as binary to octal, octal to hexadecimal and more.
 - Input validation for accurate conversions.
 
 ## My Contributions
